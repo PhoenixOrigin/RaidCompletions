@@ -1,0 +1,6 @@
+{
+  "commands.raidcompletions.show_raid_completions.header": "Completions de raid de : ",
+  "commands.raidcompletions.show_raid_completions.entry": "%s%s%s ",
+  "commands.raidcompletions.show_raid_completions.total": "TOTAL",
+  "commands.raidcompletions.show_raid_completions.times": " fois"
+}

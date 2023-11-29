@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "raidcompletions",
+  "version": "${version}",
+
+  "name": "RaidCompletions",
+  "description": "",
+  "authors": [],
+  "contact": {},
+
+  "license": "All-Rights-Reserved",
+  "icon": "assets/raidcompletions/icon.png",
+
+  "environment": "client",
+  "entrypoints": {},
+
+      "mixins": [
+        "raidcompletions.mixins.json"
+      ],
+
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+        "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
